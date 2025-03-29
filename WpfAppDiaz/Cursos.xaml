@@ -21,9 +21,9 @@
         <TextBox Grid.Column="1" Grid.Row="0" Width="100" Height="30"></TextBox>
         <Label  Content="label2" Grid.Column="0" Grid.Row="1" Width="100" Height="30"></Label>
         <TextBox Grid.Column="1" Grid.Row="1" Width="100" Height="30"></TextBox>
-        <Button Content="Agregar"
+        <!--<Button Content="Agregar"
                 Grid.Row="2" Grid.Column="0"
-        Background="Yellow" Height="30" Width="100" FontSize="24" Grid.ColumnSpan="2" Margin="150,24,150,24" />
+        Background="Yellow" Height="30" Width="100" FontSize="24" Grid.ColumnSpan="2" Margin="150,24,150,24" />-->
 
     </Grid>
 </Window>
